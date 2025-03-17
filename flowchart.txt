@@ -1,0 +1,2 @@
+Loan Service : https://dbdiagram.io/d/loan_service-67d05c5775d75cc844afc9d3
+Billing engine : https://dbdiagram.io/d/billing_engine-67c8f43f263d6cf9a05fb65a 
